@@ -22,7 +22,9 @@ As seguintes ferramentas e frameworks foram usadas:
 
 3- Crie um banco de dados PostgreSQL com o nome que desejar
 
+
 4- Configure o arquivo `.env.development` usando o arquivo `.env.example` (consulte "Executando o aplicativo localmente ou dentro da seção docker" para obter detalhes)
+
 
 5. Execute todas as migrações
 
