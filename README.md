@@ -16,10 +16,14 @@ As seguintes ferramentas e frameworks foram usadas:
 
 ## Como rodar 
 1- Clonar repositório
+
 2- Instalar dependências
 ### `npm i`
+
 3- Crie um banco de dados PostgreSQL com o nome que desejar
+
 4- Configure o arquivo `.env.development` usando o arquivo `.env.example` (consulte "Executando o aplicativo localmente ou dentro da seção docker" para obter detalhes)
+
 5. Execute todas as migrações
 
 ### `npm run dev:migration:run`
@@ -38,8 +42,10 @@ As seguintes ferramentas e frameworks foram usadas:
 ## Como executar testes
 
 1. Siga as etapas da última seção
-2. Configure o arquivo `.env.test` usando o arquivo `.env.example` (consulte a seção "Executando o aplicativo localmente ou dentro do docker" para obter detalhes)
-3. Execute todas as migrações:
+   
+3. Configure o arquivo `.env.test` usando o arquivo `.env.example` (consulte a seção "Executando o aplicativo localmente ou dentro do docker" para obter detalhes)
+   
+5. Execute todas as migrações:
 
 
 ### `npm run test:migration:test`
