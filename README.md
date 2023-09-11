@@ -26,11 +26,11 @@ As seguintes ferramentas e frameworks foram usadas:
 
 
 6. seed db
-7. 
+ 
 ### `npm run dev:seed`
 
 
-6. Execute o back-end em um ambiente de desenvolvimento:
+7. Execute o back-end em um ambiente de desenvolvimento:
 
 ### `npm run dev`
 
