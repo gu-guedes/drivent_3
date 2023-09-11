@@ -1,4 +1,4 @@
-### DRIVEN.T 
+### DRIVEN.T Back-end
 Continuação de um projeto legado, onde tem como intuito a listagem e seleção de quartos de hotéis.
 
 ## Sobre
